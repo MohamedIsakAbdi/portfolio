@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74b8df1d.css",
+    "main.js": "/static/js/main.a5b4974f.js",
+    "static/media/pizza.png": "/static/media/pizza.a653ec9be844509151de.png",
+    "static/media/mystore.png": "/static/media/mystore.d6d69cdd6cc14c8be4bb.png",
+    "static/media/weather.PNG": "/static/media/weather.b30da67af87e02ade062.PNG",
+    "static/media/portfolio.PNG": "/static/media/portfolio.70aa673045a70331d5fb.PNG",
+    "index.html": "/index.html",
+    "main.74b8df1d.css.map": "/static/css/main.74b8df1d.css.map",
+    "main.a5b4974f.js.map": "/static/js/main.a5b4974f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74b8df1d.css",
+    "static/js/main.a5b4974f.js"
+  ]
+}
