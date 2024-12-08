@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import LIIcon from '../images/LI-In-Bug.png';
 import GitHubIcon from '../images/Github-512.png';
-import '../nav.css';
+
 const Homepage = () => {
   return (
     <div>
