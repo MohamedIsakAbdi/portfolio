@@ -1,0 +1,123 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	background-color: #333;
+}
+
+
+
+
+.social-icons-bottom {
+	padding: 10px;
+}
+ .education {
+	margin: 50px auto;
+	max-width: 800px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
+.experience {
+	margin: 50px auto;
+	max-width: 800px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.experience h1 {
+	margin-top: 0;
+	color: #333;
+}
+
+.experience p {
+	color: #777;
+}
+
+/* Responsive styles for the experience section */
+@media screen and (max-width: 800px) {
+	.experience {
+	
+		margin: 50px;
+		padding: 10px;
+	}
+}
+
+.timeline {
+  position: relative;
+  margin-top: 40px;
+}
+
+.timeline:before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background-color: #333;
+  transform: translateX(-50%);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 40px;
+}
+
+.timeline-item:before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 10px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #333;
+}
+
+.timeline-content {
+  background-color: #f2f2f2;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.timeline h2 {
+  margin-top: 0;
+}
+
+.education h2 {
+  margin-bottom: 10px;
+}
+
+.education ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.education ul li {
+  margin-bottom: 10px;
+}
+ .education {
+	margin: 50px auto;
+	max-width: 800px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+	background-color: #141212;
+	color: #fff;
+	padding: 30px;
+	text-align: center;
+}
